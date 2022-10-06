@@ -1,0 +1,7 @@
+Stevens Institute of Technology - Fall 2022
+SSW 567 - Software Testing, Quality Assurance and Maintenance
+Nathalie Souza
+Homework Assignment #4a
+
+- While coding this assignment I kept in mind that it was simple and fairy straighforward coding assignment so I made sure I didn't get too bogged down with extra code. Knowing that I was going to import json, I know that a dictionary was going to be necessary for the results. I worked backwards from there knowing that the return would be a json string.
+- A challenge I came across was the over testing from GitHub, my code was running well and then out of nowhere I was receiving an error saying "TypeError: string indices must be integers" which was a random error since the code was hardly changed. Even when I went back to previous working code versions I recevied the same error. This is when I rememberered the note in the assignment about running too many tests through GitHub. Once I waited a little while the code was able to properly run again.
